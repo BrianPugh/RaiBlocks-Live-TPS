@@ -1,6 +1,6 @@
 Uses the rai_node/rai_wallet program's callback feature to display the live TPS of your node.
 
-![demo](https://imgur.com/a/iChRb)
+![demo](https://i.imgur.com/a/iChRb.png?raw=true)
 
 run:
     python live_tps.py --help
